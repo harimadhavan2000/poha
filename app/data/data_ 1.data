@@ -1,0 +1,11 @@
+{
+    "PRODUCTS": [
+        {
+            "SKU": " 1",
+            "NAME": " Hari",
+            "STOCK_LOCATION": " Kucknow",
+            "PLACE_OF_ORIGIN": "Not Issued",
+            "STOCK": "23"
+        }
+    ]
+}

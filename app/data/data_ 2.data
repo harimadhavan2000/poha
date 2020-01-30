@@ -1,0 +1,11 @@
+{
+    "PRODUCTS": [
+        {
+            "SKU": " 2",
+            "NAME": " ESP8266",
+            "STOCK_LOCATION": "3",
+            "PLACE_OF_ORIGIN": "Not Issued",
+            "STOCK": 3
+        }
+    ]
+}

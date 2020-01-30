@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+
+{% block title %}
+{{title}}
+{% endblock %}
+{% block display_ %}
+{{display}}
+{% endblock %}
+{% block display_1 %}
+{{display1}}
+{% endblock %}
+{% block extra %}
+{{extra}}
+{% endblock %}
+{% block content %}
+    <div class="g-signin2" data-onsuccess="onSignIn"></div>
+
+  <script src="https://apis.google.com/js/platform.js?onload=renderButton" async defer></script>
+{% endblock %}

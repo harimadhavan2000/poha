@@ -1,0 +1,13 @@
+{
+    "PRODUCTS": [
+        {
+            "SKU": " 1",
+            "NAME": " Arduino",
+            "STOCK_LOCATION": "",
+            "PLACE_OF_ORIGIN": "K. Hari Madhavan",
+            "STOCK": "1",
+            "STATUS": 1,
+            "ID": 3
+        }
+    ]
+}

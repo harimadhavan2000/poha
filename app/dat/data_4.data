@@ -1,0 +1,13 @@
+{
+    "PRODUCTS": [
+        {
+            "SKU": " 3",
+            "NAME": " Resistor",
+            "STOCK_LOCATION": "",
+            "PLACE_OF_ORIGIN": "K. Hari Madhavan",
+            "STOCK": "4",
+            "STATUS": 1,
+            "ID": 4
+        }
+    ]
+}

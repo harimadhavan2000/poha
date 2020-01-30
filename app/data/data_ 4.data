@@ -1,0 +1,11 @@
+{
+    "PRODUCTS": [
+        {
+            "SKU": " 4",
+            "NAME": " Capacitor",
+            "STOCK_LOCATION": "6",
+            "PLACE_OF_ORIGIN": "Not Issued",
+            "STOCK": 0
+        }
+    ]
+}

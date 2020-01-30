@@ -1,0 +1,13 @@
+{
+    "PRODUCTS": [
+        {
+            "SKU": " 1",
+            "NAME": " Arduino",
+            "STOCK_LOCATION": "3",
+            "PLACE_OF_ORIGIN": "Not Issued",
+            "STOCK": 6,
+            "STATUS": 2,
+            "ID": 1
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "PRODUCTS": [
+        {
+            "SKU": " 5",
+            "NAME": " Multimeter",
+            "STOCK_LOCATION": "",
+            "PLACE_OF_ORIGIN": "K. Hari Madhavan",
+            "STOCK": 0
+        }
+    ]
+}

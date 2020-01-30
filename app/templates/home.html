@@ -1,0 +1,46 @@
+{% extends "layout1.html" %}
+
+{% block title %}
+{{title}}
+{% endblock %}
+{% block display_ %}
+{{display}}
+{% endblock %}
+{% block display_1 %}
+{{display1}}
+{% endblock %}
+{% block login %}
+{{login}}
+{% endblock %}
+
+{% block content %}
+
+    <!-- Intro Header -->
+    <header class="intro">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                         <a href="{{ url_for('submit_form')}}"><h2>Add a component</h2>
+                         <a href="{{ url_for('view_products')}}"><h2>View Components</h2>
+                        {% if login != "Login" %}
+                            <a href="{{ url_for('view_products')}}"><h2>Issue Component</h2>
+                            <a href="{{ url_for('view_products')}}"><h2>Return Component</h2>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+ <footer>
+
+    <div class="text-center">
+              <a style='font-size: 50px; color: blue' href="https://github.com/harimadhavan2000" target="_blank" class="fa fa-github"></a>
+             
+            </div>
+
+    </footer>
+    <!-- Download Section -->
+        {% endblock %}
